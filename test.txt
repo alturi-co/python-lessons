@@ -1,0 +1,5 @@
+Name, Breed, Age
+Mushu, Golden Retriever, 6
+Scoob, Maltese, 8
+Cleo, Labrador, 10
+Coco, Shih Tzu, 7
